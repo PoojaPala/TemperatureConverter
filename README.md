@@ -19,3 +19,5 @@ The above xml files contains the code for the UI part of the app and are present
 3) background_history.xml
 
 The above files contains the code for colourful background screens and are present in res in drawable folder.
+
+
